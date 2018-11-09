@@ -1,0 +1,27 @@
+[submodule "BCFSTM-BCFWAV-Converter"]
+	path = BCFSTM-BCFWAV-Converter
+	url = https://github.com/aboood40091/BCFSTM-BCFWAV-Converter
+[submodule "OtherSMBU-Patcher"]
+	path = OtherSMBU-Patcher
+	url = https://github.com/aboood40091/OtherSMBU-Patcher
+[submodule "SARC-Tool"]
+	path = SARC-Tool
+	url = https://github.com/aboood40091/SARC-Tool
+[submodule "GTX-Extractor"]
+	path = GTX-Extractor
+	url = https://github.com/aboood40091/GTX-Extractor
+[submodule "BFRES-Tool"]
+	path = BFRES-Tool
+	url = https://github.com/aboood40091/BFRES-Tool
+[submodule "Miyamoto"]
+	path = Miyamoto
+	url = https://github.com/aboood40091/Miyamoto
+[submodule "NSMBU-Music-extractor-injector"]
+	path = NSMBU-Music-extractor-injector
+	url = https://github.com/aboood40091/NSMBU-Music-extractor-injector
+[submodule "clip"]
+	path = clip
+	url = https://github.com/aboood40091/clip
+[submodule "NSMBWtoNSMBU/SarcLib"]
+	path = NSMBWtoNSMBU/SarcLib
+	url = https://github.com/aboood40091/SarcLib
